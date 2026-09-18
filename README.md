@@ -1,6 +1,6 @@
-**Smart Water Purification and Quality Monitoring System**
+# Smart Water Purification and Quality Monitoring System
 
-**Smart India Hackathon 2026 | SIH26040**
+## Smart India Hackathon 2026 | SIH26040
 
 An intelligent, IoT-enabled water purification and quality monitoring system designed to provide **continuous water-quality assessment, purification-system monitoring, automated alerts, and preventive maintenance**.
 
@@ -61,7 +61,6 @@ The system continuously collects water and operational parameters through an ESP
        │ Alerts              │
        │ Maintenance         │
        └─────────────────────┘
-
 
 ## Hardware
 
